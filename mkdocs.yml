@@ -1,0 +1,10 @@
+site_name: site cor amarelo
+site_author: Emerson & Andrea & Lizandra
+site_dir: /var/www/html
+
+theme: 
+  name: material
+  language: pt
+  palette:
+    primary: yellow
+
